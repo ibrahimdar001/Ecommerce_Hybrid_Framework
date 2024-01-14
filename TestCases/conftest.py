@@ -1,5 +1,7 @@
 from selenium import webdriver
 import pytest
+import pytest_metadata
+from pytest_metadata.plugin import metadata_key
 
 @pytest.fixture
 def setup(browser):
@@ -20,3 +22,16 @@ def pytest_addoption(parser):
 @pytest.fixture
 def browser(request):
     return request.config.getoption("--browser")
+
+
+# This is a hook that will set up environment for HTML report
+
+def pytest_configure(config):
+    config.stash[metadata_key]["Project Name"] = "NoP Commerce"
+    config.stash[metadata_key]["Module Name"] = "Customers"
+    config.stash[metadata_key]["Tester"] = "Ibrahim"
+
+@pytest.hookimpl(optionalhook=True)
+def pytest_metadata(metadata):
+    metadata.pop("JAVA_HOME", None)
+    metadata.pop("Plugins", None)

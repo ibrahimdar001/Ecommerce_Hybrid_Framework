@@ -18,12 +18,13 @@ class TestCase_001:
 
         if page_title == "Your store. Login":
             assert True
+            self.driver.close()
             self.logger.info("------------------ Home Page Title test is Passed -------------")
-            self.driver.close()
+            
         else:
-            self.driver.save_screenshot(".//Screenshots//"+"test_HomePagetitle.png")
-            self.logger.info("------------------ Home Page Title test is Failed -----------")
+            self.driver.save_screenshot(".\\Screenshots\\"+"test_HomePagetitle.png")
             self.driver.close()
+            self.logger.error("------------------ Home Page Title test is Failed -----------")
             assert False
             
 
@@ -40,9 +41,11 @@ class TestCase_001:
         if "nopCommerce" in page_title:
             assert True
             self.logger.info("------------------ Login Page Title test is Passed -------------")
+            self.login_page.clickLogout()
             self.driver.close()
         else:
-            self.driver.save_screenshot(".//Screenshots//"+"test_Login.png")
-            self.logger.info("------------------ Login Page Title test is Failed -------------")
+            self.driver.save_screenshot(".\\Screenshots\\"+"test_Login.png")
+            self.logger.error("------------------ Login Page Title test is Failed -------------")
+            self.login_page.clickLogout()
             self.driver.close()
             assert False

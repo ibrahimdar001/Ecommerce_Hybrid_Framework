@@ -1,0 +1,106 @@
+01/14/2024 01:50:34 AM : INFO : ----------------- TestCase_001 ----------------
+01/14/2024 01:50:34 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/14/2024 01:50:34 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/14/2024 01:50:36 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/14/2024 01:50:41 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/14/2024 01:51:38 AM : INFO : ----------------- TestCase_001 ----------------
+01/14/2024 01:51:38 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/14/2024 01:51:38 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/14/2024 01:51:40 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/14/2024 01:51:42 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/14/2024 01:57:22 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/14/2024 01:57:22 AM : INFO : ----------------- TestCase_001 ----------------
+01/14/2024 01:57:22 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/14/2024 01:57:24 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/14/2024 01:57:29 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/14/2024 02:13:24 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/14/2024 02:13:24 AM : INFO : ----------------- TestCase_001 ----------------
+01/14/2024 02:13:24 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/14/2024 02:13:30 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/14/2024 02:13:34 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/14/2024 02:15:48 AM : INFO : ----------------- TestCase_001 ----------------
+01/14/2024 02:15:48 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/14/2024 02:15:48 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/14/2024 02:15:51 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/14/2024 02:15:55 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:04:01 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:04:01 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:04:01 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:04:05 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:09:44 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:09:44 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:09:44 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:09:46 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:09:55 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:10:00 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:13:17 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:13:17 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:13:17 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:13:20 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:13:25 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:15:02 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:15:02 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:15:02 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:15:06 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:15:10 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:17:24 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:17:24 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:17:24 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:17:27 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:17:31 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:19:33 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:19:33 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:19:33 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:19:38 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:20:14 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:20:14 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:20:14 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:20:17 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:20:21 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:26:07 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:26:07 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:26:07 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:26:10 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:26:15 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:28:18 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:28:18 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:28:19 AM : ERROR : ------------------ Home Page Title test is Failed -----------
+01/15/2024 03:28:22 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:28:28 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:29:56 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:29:56 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:29:57 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:29:59 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:30:06 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:32:20 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:32:20 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:32:23 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:32:25 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:32:34 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:32:50 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:32:50 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:32:52 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:32:54 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:33:04 AM : ERROR : ------------------ Login Page Title test is Failed -------------
+01/15/2024 03:33:09 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:33:14 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:33:18 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:33:18 AM : ERROR : ------------ Data Driven Login test has been failed -------------
+01/15/2024 03:38:21 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:38:21 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:38:23 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:38:25 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:38:34 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:38:40 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:38:44 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:38:48 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:38:48 AM : INFO : ------------ Data Driven Login test has been Passed -------------
+01/15/2024 03:39:53 AM : INFO : ----------------- TestCase_002 ----------------
+01/15/2024 03:39:53 AM : INFO : ----------------- Verifying Home Page Title ---------------
+01/15/2024 03:39:56 AM : INFO : ------------------ Home Page Title test is Passed -------------
+01/15/2024 03:39:58 AM : INFO : ----------------- Verifying Login Page Title ---------------
+01/15/2024 03:40:05 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:40:08 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:40:10 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:40:11 AM : INFO : ------------------ Login Page Title test is Passed -------------
+01/15/2024 03:40:11 AM : INFO : ------------ Data Driven Login test has been Passed -------------
